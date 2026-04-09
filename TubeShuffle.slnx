@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TubeShuffle.Api/TubeShuffle.Api.csproj" />
+    <Project Path="src/TubeShuffle.Core/TubeShuffle.Core.csproj" />
+    <Project Path="src/TubeShuffle.Data/TubeShuffle.Data.csproj" />
+  </Folder>
+</Solution>
